@@ -5,3 +5,5 @@ CommuteSwap is a web app for job seekers who are looking for shorter commutes- o
 
 
 ![alt text](https://user-images.githubusercontent.com/20195591/28849241-d3799c9e-76db-11e7-886e-a2f00f4e83da.png)
+
+![signin and message feature](https://user-images.githubusercontent.com/20195591/28853127-f25258aa-76f3-11e7-8bcb-99aa04cfcce1.gif)
